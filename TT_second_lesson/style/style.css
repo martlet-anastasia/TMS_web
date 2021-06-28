@@ -42,7 +42,8 @@ body {
     margin: 50px 0 52px 0;
     text-align: left;
     width: 667px;
-    font-family: Roboto;
+    font-weight: 500;
+    font-family: Roboto, Arial, sans-serif;
     font-size: 40px;
     font-style: normal;
     color: #000000;
@@ -51,8 +52,9 @@ body {
 .general-text {
     margin: 0;
     text-align: left;
-    font-family: Roboto;
+    font-family: Roboto, Arial, sans-serif;
     font-size: 22px;
+    font-weight: 300;
     font-style: normal;  
     color: #000000;
 }
@@ -63,7 +65,8 @@ body {
     width: 195px;
     height: 50px;
     text-align: center;
-    font-family: Roboto;
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: 300;
     font-size: 22px;
     font-style: normal;
     background: #666666;
